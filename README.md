@@ -84,14 +84,14 @@ Learning Platforms:
   - Hack The Box
   - Real-world Labs
 📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikas-kumar-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-kumar-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </div>
 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB&theme=tokyonight&hide_border=true&background=0D1117" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=vikas-kumar-22&theme=tokyonight&hide_border=true&background=0D1117" /> </div>
 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vikas-kumar-22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" /> </div>
 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-kumar-22&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/> </div>
 🧠 TryHackMe Stats
-<div align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME.png" alt="TryHackMe Badge" /> </div>
+<div align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/grim01.png" alt="TryHackMe Badge" /> </div>
 🌐 Connect With Me
 <div align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/YOUR_GITHUB"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_TRYHACKME"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /> </a> <a href="YOUR_HTB"> <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /> </a> </div>
