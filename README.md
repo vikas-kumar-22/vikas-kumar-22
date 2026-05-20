@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVtN2M2dGRkN2E2a3JmYzV5eWh5c3Q2Y2xkNjI4cWV2b2E4eDJvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lVsYDBC0UVQJCE/giphy.gif" width="100%" />
 
-# 0xGRIM
+# GR4Y_0111
 
 ### Offensive Security • Red Teaming • Web Exploitation • Ethical Hacking
 
@@ -16,7 +16,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```bash
 > whoami
 
 Cybersecurity Enthusiast & Aspiring Red Teamer
