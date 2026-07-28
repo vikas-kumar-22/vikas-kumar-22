@@ -92,6 +92,6 @@ Learning Platforms:
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Half7one&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/> </div>
 🧠 TryHackMe Stats
-<div align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/grim01.png" alt="TryHackMe"> </div>
+<div align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/Half7one.png" alt="TryHackMe"> </div>
 🌐 Connect With Me
 <div align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/YOUR_GITHUB"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://tryhackme.com/p/grim01"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /> </a> <a href="YOUR_HTB"> <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /> </a> </div>
