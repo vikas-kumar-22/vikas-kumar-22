@@ -7,7 +7,7 @@
 ### Offensive Security • Red Teaming • Web Exploitation • Ethical Hacking
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Aspiring+Red+Teamer;Offensive+Security+Enthusiast;Web+Application+Security;TryHackMe+%7C+PortSwigger+Labs;Always+Learning+Always+Breaking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Aspiring+Red+Teamer;Offensive+Security+Enthusiast;Web+Application+Security;Always+Learning+Always+Breaking" />
 </p>
 
 </div>
@@ -84,13 +84,13 @@ Learning Platforms:
   - Hack The Box
   - Real-world Labs
 📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikas-kumar-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-kumar-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Half7one&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Half7one&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </div>
 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=vikas-kumar-22&theme=tokyonight&hide_border=true&background=0D1117" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Half7one&theme=tokyonight&hide_border=true&background=0D1117" /> </div>
 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vikas-kumar-22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Half7one&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" /> </div>
 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-kumar-22&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Half7one&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/> </div>
 🧠 TryHackMe Stats
 <div align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/grim01.png" alt="TryHackMe"> </div>
 🌐 Connect With Me
